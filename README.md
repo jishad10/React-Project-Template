@@ -6,9 +6,3 @@
 -   clone to your local machine
 -   npm install
 -   npm start
-
-## Template Includes
-
--   react-icons
--   Eslint
--   Prettier
